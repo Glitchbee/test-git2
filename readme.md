@@ -2,4 +2,4 @@
 
 ## Git branches are really interesting concept.
 
-### Made changes in main branch.
+### Made changes in branch.
